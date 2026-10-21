@@ -8,7 +8,5 @@ docs/
 __pycache__/
 .venv/
 venv/
-lab-arranque.sh
-lab-arranque.ps1
 init.sql
 .DS_Store
